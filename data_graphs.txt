@@ -1,0 +1,8 @@
+
+
+random	91.68 
+linear	86.53
+equal	92.34
+
+svm	83.97
+C5	93.2
